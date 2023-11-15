@@ -1,1 +1,1 @@
-# JS_Fundamentals_homework13
+# js-fundamentals-ajax-tasks
